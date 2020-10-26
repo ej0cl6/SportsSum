@@ -8,7 +8,7 @@ If you find that this dataset is useful in your research, please consider citing
         author    = {Kuan-Hao Huang and
                      Chen Li and
                      Kai-Wei Chang},
-        title     = {Cost-sensitive label embedding for multi-label classification},
+        title     = {Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization},
         booktitle = {Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)},
         year      = {2020},
     }
